@@ -1,0 +1,7 @@
+#Tue Oct 25 09:29:19 ICT 2016
+base.0=/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_790abbf1e081117f60b7466eddbfa93fd63e60bd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d30659098be0ad511ea77daa47d4bf026313f1da/classes.dex
+base.1=/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d30659098be0ad511ea77daa47d4bf026313f1da
+file.0=/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_790abbf1e081117f60b7466eddbfa93fd63e60bd/classes.dex

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c55f8f10c0a161c21701eadec9617a7cd8a1592a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_53050ffd37706061241cb675ae78c901c5312365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a277447d023a9e0fa3e5d6bad4a17698f6f55461">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d30659098be0ad511ea77daa47d4bf026313f1da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_33be7dc8bac5b8259db56b93c105c3395bad0536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_255e2d84a23a36b17667d0d2a513162924f0ffc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_f4d9b45d938a4f3edbd79baf843d7a4122cd3423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b6719d2a1026a507ec72c9926e22abb97e9bb714/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_e4ec108c31debf7db5b44f57d1fc8cd6036246c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_372f86e2a25357f18e65cdb8ec41dd235fc421ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c0026cea73cb6a49a94465a893448bb9b9d8e058/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ef75baebbfd1b1ea0143bbf170156d2e4eecd738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_77eb75246425edce7a41574396545f2c3d106655/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_fa64e1db258413eb9482c827b374d6e30656cb69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_312c29e622db8c7710ee14edeee6d16dcc01815c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1d7868f578de6eb5c8bc0ab6e3b5af0565661d8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_79deff4a247b3d833c2aa54cd5db47391e354708/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea4d3e73f45fa7e11db59c9f87f597fe19434ca6">
+        <dex dex="/home/joh/AndroidStudioProjects/FirstGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_790abbf1e081117f60b7466eddbfa93fd63e60bd/classes.dex" />
+    </item>
+
+</items>

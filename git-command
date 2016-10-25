@@ -1,0 +1,51 @@
+Thiết lập chứng thực cá nhân
+	git config --global user.name "ten"
+	git config --global user.email "dia_chi_email"
+	cat ~/.gitconfig	//kiểm tra lại thông tin
+	git config --list	//tương tự trên
+
+Khởi tạo
+	git init		//thư mục chứa sẵn mã nguồn
+	git init ten_folder	//khởi tạo thư mục chứa mã nguồn
+
+Clone
+	git clone "http/ssh(url)"
+
+Đưa file về trạng thái Tracked(sẵn sàng làm việc với git)
+	git add ten_file
+
+Đưa file về trạng thái Untracked
+	rm ten_file
+
+Đưa file về trạng thái Staged(có thể commit)
+	git add ten_file
+
+Xem trạng thái của file
+	git status
+
+Commit file
+	git commit -m "Lời nhắn"
+
+Push
+	git push origin master	//origin là tên remote, master là tên branch
+
+Remote respository
+	git remote -v				//kiểm tra tên remote
+	git remote rename ori_name new_name	//đổi tên remote
+	git remote add ten_remote URL		//thêm một remote
+	git remote set-url origin URL		//thay đổi url của remote(có thể áp dụng chuyển sang ssh)
+
+Branch
+	git branch		//xem tất cả các branch đang có
+	git lg			//ktra đang ở branch nào
+	cat .git/HEAD		//tương tự như trên
+	git branch ten_branch	//tạo một branch mới
+	git checkout ten_branch	//truy cập mã nguồn của branch cần làm việc
+	git merge ten_branch	//gộp dữ liệu từ một branch về branch đang làm việc
+
+
+SSH
+	ls -al ~/.ssh		//list các file trong .ssh directory
+	ssh-keygen -t rsa -b 4096 -C "dia_chi_email@example.com"	//tạo cặp khóa public/private rsa
+	eval "$(ssh-agent -s)"	//ensure ssh-agent is enabled
+	ssh-add ~/.ssh/id_rsa	//add ssh key to the ssh-agent	
