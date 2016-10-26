@@ -66,7 +66,7 @@ public class MainThread extends Thread {
             }catch (Exception e){
 
             }
-            totalTime = System.nanoTime() - startTime;
+            totalTime += System.nanoTime() - startTime;
             frameCount ++;
             if(frameCount == FPS){
                 averageFPS = 1000/((totalTime/frameCount)/1000000);
